@@ -67,7 +67,5 @@ public class Main {
                 System.out.println(arr1[arr1.length - 1] + 1);
             }
 
-
-
     }
 }
